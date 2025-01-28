@@ -27,6 +27,13 @@ public class Main {
             System.out.println("Its rechangeble");
 
 
+            System.out.println("Its rechangeble");
+            System.out.println("Its rechangeble");
+            System.out.println("Its rechangeble");
+            System.out.println("Its rechangeble");
+            System.out.println("Its rechangeble");
+
+
 
         }
     }
